@@ -1,4 +1,4 @@
-import ProjectCard from "components/Projects/ProjectCard";
+import CaseCard from "./CaseCard";
 import Case1 from "assets/images/case-1.webp";
 import Case2 from "assets/images/case-2.webp";
 import Case3 from "assets/images/case-3.webp";
@@ -33,7 +33,7 @@ const CaseStudy = () => {
             </div>
             <div className="md:grid grid-cols-3 gap-20 px-8 md:px-16 mt-14 space-y-8 md:space-y-0">
                 {caseStudies.map((caseStudy, index) => (
-                    <ProjectCard key={index} project={caseStudy} />
+                    <CaseCard key={index} caseStudy={caseStudy} />
                 ))}
             </div>
         </div>

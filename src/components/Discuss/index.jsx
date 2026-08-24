@@ -30,7 +30,7 @@ const Discuss = () => {
             </div>
             <div className="relative bg-orange-500 pt-12 pb-9 rounded-tl-3xl rounded-br-3xl">
                 <div className="transform -skew-y-3 bg-white ">
-                    <Marquee speed={50} gradient={false}>
+                    <Marquee speed={200} gradient={false}>
                         <div className="flex gap-7">
                             {works.map((work, index) => (
                                 <h3

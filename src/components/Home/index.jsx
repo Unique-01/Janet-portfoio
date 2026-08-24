@@ -85,7 +85,7 @@ const Home = () => {
                                 <TiStarFullOutline className="star" />
                             </div>
                             <h3 className="text-3xl font-bold urbanist">
-                                4 Years
+                                5 Years
                             </h3>
                             <p className="text-xs">Experience</p>
                         </div>

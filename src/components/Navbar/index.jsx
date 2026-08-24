@@ -47,7 +47,7 @@ const Navbar = () => {
                                         About
                                     </Link>
                                 </li>
-                                <li>
+                                {/* <li>
                                     <Link
                                         activeClass="active"
                                         to="experience"
@@ -58,7 +58,7 @@ const Navbar = () => {
                                         className=" p-3 px-6 rounded-full hover:bg-zinc-700 transition-all duration-500 ease-in-out hover:cursor-pointer">
                                         Work Experience
                                     </Link>
-                                </li>
+                                </li> */}
                             </ul>
                         </div>
                         <div className="flex items-center gap-2">

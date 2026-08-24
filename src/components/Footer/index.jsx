@@ -130,7 +130,7 @@ const Footer = () => {
                     <hr className=" border-gray-600" />
                 </div>
                 <div className="text-xs lg:flex space-y-4 justify-between pb-3">
-                    <p>Copyright &copy; 2023 JanetD. All Rights Reserved.</p>
+                    <p>Copyright &copy; 2026 JanetD. All Rights Reserved.</p>
                     <p>User Terms & Conditions | Privacy Policy</p>
                 </div>
             </div>
