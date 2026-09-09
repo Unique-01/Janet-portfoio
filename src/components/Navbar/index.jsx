@@ -1,6 +1,6 @@
 import { Link } from "react-scroll";
 import jdLogo from "assets/images/jd-logo.svg";
-import Resume from "assets/Janet-resume.pdf";
+import Resume from "assets/Janet-product-Design-Resume-2026.pdf";
 import "./Navbar.css";
 import { useState } from "react";
 import { FaBars } from "react-icons/fa6";

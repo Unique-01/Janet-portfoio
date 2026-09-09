@@ -1,7 +1,7 @@
 import Button from "components/Button";
 import "./Footer.css";
 import jdLogo from "assets/images/jd-logo.svg";
-import Resume from "assets/Janet-resume.pdf";
+import Resume from "assets/Janet-product-Design-Resume-2026.pdf";
 import { Link } from "react-scroll";
 import { FaFacebookSquare } from "react-icons/fa";
 import { GrYoutube } from "react-icons/gr";
